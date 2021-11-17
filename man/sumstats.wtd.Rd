@@ -12,6 +12,8 @@ sumstats.wtd(df, wts, labs = NULL, d = 2)
 \item{wts}{vector of weights same length as the data frame}
 
 \item{labs}{vector of variable names - defaults to column names of df}
+
+\item{d}{number of digits to display}
 }
 \value{
 the variance

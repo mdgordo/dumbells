@@ -7,9 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "mdgordo@gmail.com",
            comment = c(ORCID = "0000-0001-8241-3754"))
-Description: Functions for working with weighted and clustered data
-License: none
-Imports: xtable, sandwich
+Description: Functions for working with weighted and clustered data.
+License: MIT + file LICENSE
+Imports: xtable, sandwich, stats
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
